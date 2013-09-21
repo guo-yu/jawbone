@@ -1,7 +1,8 @@
 {
   "name": "jawbone",
-  "version": "0.0.0",
-  "description": "sdk of jawbone up",
+  "logo": "http://ww3.sinaimg.cn/large/61ff0de3jw1e8uhjrt0ctj202s00owe9.jpg",
+  "version": "0.0.1",
+  "description": "a developer friendly node.js sdk of jawbone products",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"

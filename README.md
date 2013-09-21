@@ -1,12 +1,10 @@
-## jawbone ![npm](https://badge.fury.io/js/jawbone.png)
+## ![logo](http://ww3.sinaimg.cn/large/61ff0de3jw1e8uhjrt0ctj202s00owe9.jpg) jawbone ![npm](https://badge.fury.io/js/jawbone.png)
 
-sdk of jawbone up by [turing](https://npmjs.org/~turing) 
+a developer friendly node.js sdk of jawbone products by [turing](https://npmjs.org/~turing) 
 
 ### Installation
 ````
 $ npm install jawbone
-// or install globally
-$ sudo npm install jawbone -g
 ````
 
 ### Example
