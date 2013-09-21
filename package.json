@@ -1,0 +1,21 @@
+{
+  "name": "jawbone",
+  "version": "0.0.0",
+  "description": "sdk of jawbone up",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/turingou/jawbone.git"
+  },
+  "keywords": [
+    "jawbone"
+  ],
+  "author": "turing",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/turingou/jawbone/issues"
+  }
+}
